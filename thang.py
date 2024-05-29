@@ -1,0 +1,1 @@
+armas_nya = ("gun", "knife")
